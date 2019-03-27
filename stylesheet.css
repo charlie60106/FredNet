@@ -1,0 +1,23 @@
+body {
+  background-image: url("https://farm5.staticflickr.com/4863/39717255713_4235baf0db_o_d.png");
+  background-color: greenyellow;
+  font-family: Segoe UI;
+  text-align: center;
+}
+
+h1 {
+  color: blue;
+  text-align: center;
+}
+
+.main {
+    display: flex
+}
+
+.middle {
+    width: 700
+}
+
+.side {
+    flex: 1
+}
